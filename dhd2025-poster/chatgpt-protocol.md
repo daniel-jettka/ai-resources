@@ -1,6 +1,6 @@
 Date: 15.07.2024, 11:20
 
-Model: GPT-4.0
+Model: GPT-4o
 
 **Question: What are important points to consider in developing sustainable research software?**
 
@@ -94,7 +94,7 @@ _[Note: Generation aborted by service]_
 ------
 
 Date: 15.07.2024, 11:25
-Model: GPT-4.0
+Model: GPT-4o
 
 **Question: What are important points to consider in developing sustainable research software?**
 
